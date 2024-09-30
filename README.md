@@ -1,1 +1,1 @@
-# Plataforma web e mobile para conectar gamers
+# Web and mobile platform to connect gamers
